@@ -1,0 +1,143 @@
+# Ignore all build artifacts
+**/build/*
+
+# Ignore editor temporary files
+**/.DS_Store
+**/Thumbs.db
+
+# Ignore IDE configuration files
+**/.idea/
+**/.vscode/
+
+# Ignore virtual environment files
+**/venv/
+
+# Ignore testing files
+**/tests/
+
+# Ignore deployment scripts
+**/startup.sh
+
+# Ignore database configurations
+**/.env
+
+# Ignore code analysis files
+**/coverage.xml
+**/.coverage
+
+# Ignore documentation files
+**/docs/
+
+# Ignore unused files
+**/__pycache__/
+**/.pytest_cache/
+**/.venv/
+**/.git/
+**/.hg/
+**/.svn/
+**/.tox/
+**/.mypy_cache/
+**/.ropeproject/
+**/.pytest_cache/
+**/.vagrant/
+**/.direnv/
+**/.envrc/
+**/.DS_Store
+**/Thumbs.db
+**/.gitattributes
+**/.gitmodules
+**/.gitignore
+**/.gitlab-ci.yml
+**/.travis.yml
+**/.appveyor.yml
+**/.circleci/
+**/.shippable/
+**/.codecov.yml
+**/.drone.yml
+**/.workflow/
+**/.azure-pipelines/
+**/.github/
+**/.drone.yml
+**/.circleci/
+**/.shippable/
+**/.codecov.yml
+**/.drone.yml
+**/.workflow/
+**/.azure-pipelines/
+**/.github/
+**/.gitlab-ci.yml
+**/.travis.yml
+**/.appveyor.yml
+
+# Ignore data files
+**/data/
+**/data.json
+
+# Ignore examples
+**/examples/
+
+# Ignore generated documentation
+**/docs/
+**/docs/_build/
+
+# Ignore temporary files
+**/tmp/
+**/temp/
+
+# Ignore log files
+**/logs/
+
+# Ignore config files
+**/config.py
+**/config.json
+
+# Ignore specific files
+**/key.py
+**/key.json
+**/secrets.py
+**/secrets.json
+**/config.py
+**/config.json
+**/config.yaml
+**/config.yml
+
+# Ignore auto-generated files
+**/__pycache__/
+**/.pytest_cache/
+**/.venv/
+**/.git/
+**/.hg/
+**/.svn/
+**/.tox/
+**/.mypy_cache/
+**/.ropeproject/
+**/.pytest_cache/
+**/.vagrant/
+**/.direnv/
+**/.envrc/
+**/.DS_Store
+**/Thumbs.db
+**/.gitattributes
+**/.gitmodules
+**/.gitignore
+**/.gitlab-ci.yml
+**/.travis.yml
+**/.appveyor.yml
+**/.circleci/
+**/.shippable/
+**/.codecov.yml
+**/.drone.yml
+**/.workflow/
+**/.azure-pipelines/
+**/.github/
+**/.drone.yml
+**/.circleci/
+**/.shippable/
+**/.codecov.yml
+**/.drone.yml
+**/.workflow/
+**/.azure-pipelines/
+**/.github/
+**/.gitlab-ci.yml
+**/.travis.yml
+**/.appveyor.yml
